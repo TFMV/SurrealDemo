@@ -32,8 +32,6 @@ deno run --allow-env --allow-net src/index.ts
 
 - The database is created in the `src/db/db_operations.ts` file.
 - The queries are created in the `src/db/schema_queries.ts` file.
-- The queries are created in the `src/db/db_operations.ts` file.
-- The queries are created in the `src/db/db_operations.ts` file.
 
 ## License
 
